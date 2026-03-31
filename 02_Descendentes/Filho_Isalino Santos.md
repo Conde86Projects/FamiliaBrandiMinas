@@ -16,12 +16,19 @@ tags: [descendente, baependi, brandi]
 **Filho de:** [[Documentos Maria Guilhermina|Maria Guilhermina Brandi]] e Paulino José dos Santos
 **Nascimento:** 20 de dezembro de 1887
 **Batismo:** 16 de fevereiro de 1888 — Baependi, MG
+**Cônjuge:** Avellina Maria de Jesus
 
 ## Fonte Principal
 - [[Fonte - Batismo Isalino 1888]]
 
+## Filhos Identificados
+
+| Nome | Nascimento | Casamento | Cônjuge | Fonte/Notas |
+|------|-----------|-----------|---------|-------------|
+| [[Neta_Maria (filha de Isalino)\|Maria (neta)]] | ~1909 (bat. nov/1909) | — | — | [[Fonte - Batismo Maria neta 1909]]. Nascida em Baependi. Paulino e Maria Guilhermina figuram como avós (ou padrinhos) no registro. |
+
 ## Observações
 
-- O sobrenome **Brandi foi omitido** no nome da criança, mas ainda consta no nome da mãe no registro.
-- Este é o último filho registrado em Baependi — a família pode ter se mudado após esta data.
+- O batismo do Isalino omitiu o sobrenome Brandi no nome da criança, mas estava no nome da mãe.
+- Em 1909, vemos que Isalino, agora "Isalino Brande dos Santos", foi pai de uma filha (Maria) registrando de volta a utilização do sobrenome familiar na nova geração.
 

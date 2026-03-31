@@ -18,9 +18,10 @@ tags: [descendente, baependi, brandi]
 # Nicolão Brand dos Santos
 
 **Filho de:** [[Documentos Maria Guilhermina|Maria Guilhermina Brandi]] e Paulino José dos Santos
-**Nascimento:** 25 de fevereiro de 1884 — Baependi, MG
+**Nascimento:** 25 de fevereiro de 1884 — Baependi, MG (Santo Antônio de Piracicaba)
 **Óbito:** 1944
 **Cônjuge:** Maria Lina da Silva
+**Padrinhos:** Antonio José dos Santos (da lagoa) e Anna Francisca de Jesus
 
 ## Fontes
 - [[Fonte - Batismo Nicolão 1884]]

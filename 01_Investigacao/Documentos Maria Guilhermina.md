@@ -7,7 +7,6 @@ aliases:
   - Maria Baptista Brandi
   - Maria Guilhermina Brande
   - Maria Guilhermina Brandy
-  - Maria Pruilhermina Brande
   - Maria Guilermina Brandi
   - Maria Guilhermina Brantes
   - Maria Guilhermina Brandi de Jesus
@@ -43,7 +42,7 @@ Ela é filha provável do imigrante italiano [[Pai_Nicola Brandi|Nicola Brandi]]
 | [[Filho_Manoel\|Manoel]] | Óbito | 12/02/1879 | [[Fonte - Óbito Manoel 1879]] |
 | [[Filha_Matildes Brande de Ribeiro dos Santos\|Matildes]] | Batismo | 20/01/1882 | [[Fonte - Batismo Matildes 1882]] |
 | [[Filho_Nicolão Brand dos Santos\|Nicolão]] | Batismo | 25/02/1884 | [[Fonte - Batismo Nicolão 1884]] |
-| [[Filho_Paulino Brant dos Santos\|Paulino Brant]] | Batismo | 01/11/1885 | [[Fonte - Batismo Paulino 1885]] |
+| [[Filho_Paulino Brant dos Santos\|Paulino Brandi dos Santos]] | Batismo | 01/11/1885 | [[Fonte - Batismo Paulino 1885]] / [[Fonte - Casamento Maria Guilhermina filha de Paulino 1928]] ✅ |
 | [[Filho_Isalino Santos\|Isalino]] | Nascimento | 20/12/1887 | [[Fonte - Batismo Isalino 1888]] |
 | [[Filho_José Nicolau\|José Nicolau]] | Nascimento | ~1888 | [[Fonte - Óbito José Nicolau 1958]] |
 | [[Filho_Paulo\|Paulo]] | Nascimento | ~1888 | [[Fonte - Registro Paulo 1912]] |
@@ -56,6 +55,8 @@ Ela é filha provável do imigrante italiano [[Pai_Nicola Brandi|Nicola Brandi]]
 | [[Filha_Maria Paulina Brandi\|Maria Paulina Brandi *(bisneta)*]] | Casamento | 29/06/1936 | [[Fonte - Casamento Maria Paulina 1936]] |
 
 > 🔍 **Duas Maria Paulina Brandi:** A neta (filha de um dos filhos de Maria Guilhermina) casou com Jovino Barbosa da Silva. A bisneta (filha da neta) casou com Jorge Rodrigues Motta em 1936. **Lindolfo Brandi** (filho de Maria Guilhermina) foi testemunha no casamento de 1936 — confirmando a ligação familiar.
+
+> 💛 **Homenagem:** Neta [[Neta_Maria Guilhermina (filha de Paulino)|Maria Guilhermina]] (~1911), filha de Paulino, recebeu o nome da avó. No casamento dela (1928) aparece **Nicolas Brande dos Santos** (= Nicolão, irmão de Paulino) — dois filhos de Maria Guilhermina confirmados juntos no mesmo registro.
 
 ---
 
@@ -70,7 +71,6 @@ Esta é uma **pista crítica** — o nome aparece de formas muito diferentes nos
 | **Maria Guilhermina Brand** | Batismos Nicolão, Isalino |
 | **Maria Guilhermina Brant** | Batismo Paulino Brant (1885) |
 | **Maria Guilhermina Brandy** | Nascimento Moyzes (1889) |
-| **Maria Pruilhermina Brande** | Registro Antonio Paulino (1912) |
 | **Maria Guilermina Brandi** | Batismo Maria Brandi (1898) |
 | **Maria Guilhermina Brantes** | Batismo de José de Jesus Brantes (1913) — como madrinha |
 | **Maria Guilhermina Brandi de Jesus** | Óbito do filho Lindolfo (1966) |
@@ -101,14 +101,15 @@ Esta é uma **pista crítica** — o nome aparece de formas muito diferentes nos
 | 1861 | Pais casam em Baependi | ✅ |
 | 1879 | Já em Baependi — filho Manoel morre | ✅ |
 | 1879–1898 | Batismos dos filhos em Baependi | ✅ |
-| 1898–1916 | Marido Paulino **falece** neste período | ⚠️ Data exata desconhecida |
+| **1909 (Nov)** | Marido Paulino Vivo — batismo neta | ✅ |
+| **1912 (Jul)** | Marido Paulino **já falecido** | ✅ Ocorre óbito em janela 1909-1912 |
 | **1913** | **Viva** — madrinha de José de Jesus Brantes (filho de Antonio Braulino Brantes + Sabatina Maria de Jesus) | ✅ Como "Maria Guilhermina Brantes" |
 | **1916** | **Viva** — casamento de Lindolfo não a menciona como falecida | ✅ Confirmado |
 | **16/03/1918** | **Viva** — madrinha de Moyses Brandi Barbosa da Silva (filho de Jovino Barbosa da Silva + Maria Paulina Brandi). Padrinho: Nicolau Brandi | ✅ Como "Maria Guilhermina Brandi" |
 | **até 1919** | **Aparece como madrinha de outros netos** | ✅ Estava viva |
 | depois de 1919 | Óbito — data desconhecida | 🔴 Não localizado |
 
-> 💡 **Conclusão:** O óbito de Maria Guilhermina deve ser buscado **a partir de 1919**. Com nascimento em **1862 ou 1863**, ela teria **55–56 anos em março de 1918** — podendo ter vivido até os anos 1920–1930. O marido Paulino já havia falecido antes de 1916, provavelmente entre 1898 e 1916.
+> 💡 **Conclusão:** O óbito de Maria Guilhermina deve ser buscado **a partir de 1919**. O marido Paulino faleceu entre **novembro de 1909 e julho de 1912**.
 
 ---
 
@@ -120,11 +121,12 @@ Maria Guilhermina foi madrinha de batismo de pelo menos **dois netos/afilhados**
 
 | Afilhado | Pais | Data do batismo | Fonte | Nome dela no registro |
 |----------|------|----------------|-------|----------------------|
-| **José de Jesus Brantes** | Antonio Braulino Brantes + Sabatina Maria de Jesus | **1913** | [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:QG6C-FK36?lang=pt) | **Maria Guilhermina Brantes** |
+| **Maria (neta)** | Isalino Brande dos Santos + Avellina Maria de Jesus | **Novembro, 1909** | [FamilySearch](https://familysearch.org/ark:/61903/1:1:QG6C-NMPB) | **Maria Guilhermina dos Santos** (Madrinha ou avó paterna) |
+| **José de Jesus Brandi (Brantes)** | Antonio Brandi dos Santos ("Braulino") + Salvatina Maria de Jesus ("Sabatina") | **1913** | [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:QG6C-FK36?lang=pt) | **Maria Guilhermina Brantes** |
 | **Moyses Brandi Barbosa da Silva** | Jovino Barbosa da Silva + Maria Paulina Brandi | **16/03/1918** | [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:QG6C-P9HF?lang=pt) | **Maria Guilhermina Brandi** |
 | *(outros a identificar)* | — | até 1919 | — | — |
 
-> 🔍 **Antonio Braulino Brantes** — "Brantes" é variante de Brandi/Brande/Brant. Pode ser filho ou genro de Maria Guilhermina. Investigar ligação.
+> ✅ **FILHOS IDENTIFICADOS:** O batismo bizarro de 1913 de "José de Jesus Brantes" (pais: Antonio Braulino Brantes e Sabatina) foi finalmente esclarecido no casamento de Antonio (em 1930), onde o marido "Antonio Brandi dos Santos" afirma ser viúvo de "Salvatina Maria de Jesus". Aquela criança era seu filho, e a madrinha era a própria Maria Guilhermina, sua avó, grafada erradamente.
 
 > 🔍 **Maria Paulina Brandi** (mãe de Moyses, 1918) — provável neta de Maria Guilhermina, filha de um dos filhos dela. Não é a mesma do casamento de 1936 (nascida 1920). A investigar: de qual filho de Maria Guilhermina ela descende.
 

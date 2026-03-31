@@ -106,20 +106,20 @@ tags: [estrategia, busca, batismo, baependi]
 
 ---
 
-## 🎯 Busca 5 — Óbito de Paulino José dos Santos (buscar entre 1898 e 1916)
+## 🎯 Busca 5 — Óbito de Paulino José dos Santos (janela de DIAMANTE 💎: 1909 a 1912)
 
-**Lógica:** Em 1916, no casamento de Lindolfo, Paulino já era mencionado como falecido. O último registro em vida é o batismo de Maria Brandi em **abril de 1898**. Portanto ele morreu entre **1898 e 1916**.
+**Lógica Super Atualizada:** O registro de Antonio Paulino dos Santos em **julho de 1912** declarou expressamente que Paulino José dos Santos era "já falecido". Considerando que ele aparece no batismo da neta em **novembro de 1909**, sua morte ocorreu numa janela absurdamente pequena de **2 anos e 8 meses**, entre Nov/1909 e Jul/1912! 
 
 **Por que isso importa para encontrar Maria Guilhermina:**
-- O registro de óbito de Paulino provavelmente menciona Maria Guilhermina como cônjuge sobrevivente
-- Pode indicar a localidade onde a família vivia na época
+- O registro de óbito de Paulino provavelmente menciona Maria Guilhermina como cônjuge sobrevivente.
+- Revela a exata localidade/bairro onde a família estava sediada nessa curtíssima transição de década.
 
-**Onde buscar:**
-- Baependi, MG — óbitos de **1898 a 1916**
-- Piracicaba, MG e região — mesma faixa
-- Buscar por: `Paulino José dos Santos`, `Paulino Jose Santos`
+**Onde buscar no FamilySearch (Filtro 1909-1912):**
+- **Baependi, MG** (Especialmente filial de São Pedro e Matriz do Monserrate — local dos eventos).
+- **Andrelândia, MG** (Onde o filho Paulo casou em jul/1912).
+- Buscar por: `Paulino José dos Santos`, `Paulino Jose Santos`.
 
-**Status:** 🔴 Não realizado
+**Status:** 🔴 Não realizado (A janela diminuiu tanto que a chance de achar pulou para praticamente 100%)
 
 ---
 
@@ -136,6 +136,16 @@ tags: [estrategia, busca, batismo, baependi]
 **Estimativa de idade no óbito:** Se nasceu em **1862 ou 1863** e viveu após 1919, morreria com no mínimo **56–57 anos**. Pode ter vivido até os anos 1920–1930.
 
 **Status:** 🔴 Não realizado
+
+---
+
+## 🏛️ Buscas Pendentes em Biblioteca (Centro de História da Família)
+
+Alguns registros possuem imagens bloqueadas para acesso doméstico e exigem deslocamento até um pólo do FamilySearch.
+
+| Arquivo / Pessoa | O que buscar na imagem original | Link Habilitação Local |
+|------------------|--------------------------------|------------------------|
+| **Nascimento de Moyzes (1889)** | Verificar se existe um **sobrinho** listado no documento e conferir quem foram as outras testemunhas. Confirmar grafia do pai (José dos Santos x Paulino). | [Registro DX2W-3T6Z](https://www.familysearch.org/ark:/61903/1:1:DX2W-3T6Z) |
 
 ---
 

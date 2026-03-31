@@ -27,7 +27,8 @@ tags: [descendente, baependi, 1912]
 
 ## Observações
 
-- O nome da mãe aparece como **"Maria Pruilhermina Brande"** — nova variação ortográfica (troca de "Gu" por "Pru").
+- O registro original corrigiu o índice eletrônico: a mãe é claramente lida como **"Maria Guilhermina Brande"**.
+- O pai, Paulino José dos Santos, é dado como **"já falecido"**, fechando a janela do seu óbito para antes de julho de 1912.
 - O evento de 1912 em Baependi pode ser casamento, registro civil tardio ou outro documento.
 
 > 💡 **Possível conexão:** Verificar se é o mesmo que [[Filho_Antonio Santos]] — batizado em 1891. Se sim, o nome completo seria "Antonio Paulino dos Santos", batizado apenas como "Antonio Santos".

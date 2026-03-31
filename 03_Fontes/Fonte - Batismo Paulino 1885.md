@@ -19,13 +19,14 @@ tags: [fonte, batismo, baependi, 1885, paulino]
 ## Transcrição do Registro
 
 - **Batizado:** Paulino
-- **Mãe:** Maria Guilhermina Brant *(variação de Brandi)*
+- **Mãe:** Maria Guilhermina Brandi
 - **Pai:** Paulino José dos Santos
-- **Local:** Baependi, MG
+- **Padrinhos:** Francisco Antonio dos Santos e Dona Anna Silvéria de Paula Pereira
+- **Local:** Baependi, MG (Santo Antônio de Piracicaba)
 
 ## Importância
 
-Mais uma variação do sobrenome materno: **"Brant"** — ortografia diferente de Brandi, muito comum nos registros eclesiásticos brasileiros do século XIX.
+Este batismo é **crítico** para a investigação! A mãe aparece claramente como Maria Guilhermina **Brandi**, e a presença da madrinha **Dona Anna Silvéria de Paula Pereira** (avó materna, esposa de Nicola Brandi) carimba absolutamente o vínculo familiar e a descendência direta. 
 
 ## Relacionados
 

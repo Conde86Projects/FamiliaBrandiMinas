@@ -23,8 +23,9 @@ tags: [descendente, brandi, 1889]
 ## Observações
 
 - O nome da mãe aparece como **"Maria Guilhermina Brandy"** — nova variação ortográfica a registrar nos apelidos.
-- O nome do pai está registrado como **"José dos Santos"** — diferente do usual "Paulino José dos Santos". Pode ser um erro do registro ou abreviação do nome do pai.
+- O nome do pai está registrado como **"José dos Santos"** no índice — diferente do usual "Paulino José dos Santos". Pode ser um erro do registro, abreviação ou erro de indexação da imagem.
 - Certificado nº 130.
 
-> ⚠️ **Atenção:** Verificar se o pai "José dos Santos" é o mesmo que "Paulino José dos Santos" — o "Paulino" pode ter sido omitido no registro.
+> 🔒 **Imagem Restrita:** Este registro não possui a imagem digitalizada acessível remotamente. É necessário acessá-lo fisicamente (ou via sistema local) em um **Centro de História da Família (Biblioteca do FamilySearch)**.
+> 💡 **Hipótese:** Acredita-se que este registro original possa mencionar a presença de um **sobrinho**. Somente abrindo a imagem original será possível confirmar.
 

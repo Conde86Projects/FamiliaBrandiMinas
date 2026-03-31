@@ -21,7 +21,8 @@ tags: [fonte, batismo, baependi, 1884, nicolao]
 - **Batizado:** Nicolão
 - **Mãe:** Maria Guilhermina Brand *(variação de Brandi)*
 - **Pai:** Paulino José dos Santos
-- **Local:** Baependi, MG
+- **Padrinhos:** Antonio José dos Santos (da lagoa) e Anna Francisca de Jesus
+- **Local:** Baependi, MG (Santo Antônio de Piracicaba)
 
 ## Importância
 
