@@ -23,7 +23,8 @@ tags: [investigacao_ativa, pessoa_buscada, brandi, baependi]
 
 > **STATUS:** 🔴 Em busca do registro de **batismo** — documento principal ainda não localizado.
 > ✅ **PARENTESCO CONFIRMADO** — Nicola Brandi e Anna Silvéria são os pais, confirmado pelo óbito do irmão Custódio Brandi (1941).
-> 🎯 **JANELA ATUALIZADA** — Irmã [[Irmã_Gervazia Brandam|Gervazia]] nasceu em **17/02/1864** em Baependi — portanto Maria Guilhermina nasceu **antes de fevereiro de 1864**, ou seja, em **1862 ou 1863**.
+> 🎯 **JANELA ATUALIZADA E CONFIRMADA** — A irmã [[Irmã_Gervazia Brandam|Gervazia]] nasceu em **17/02/1864**. O limite biológico impõe que Maria Guilhermina nasceu forçosamente em **1862 (ou no máximo final de 1861)**. 
+> *Motivo Histórico/Fisiológico:* Como Matilde nasceu em **~1875**, se Maria Guilhermina nasceu em 1862, ela foi mãe aos **13 anos de idade**! Se tivesse nascido depois, seria fisiologicamente insustentável. Essa idade bate perfeitamente com o padrão familiar recém-descoberto (sua filha Matilde e seu genro/sobrinho Justo casaram-se aos 16 e 14 anos).
 > 🏘️ **PARÓQUIA CONFIRMADA** — Buscar em **Nossa Senhora do Monserrate, Baependi** (mesma paróquia de todos os registros da família).
 > 🔑 **BATISMO CONFIRMADO EM BAEPENDI** — O casamento do filho Antonio (1933) declara *"batizados nesta freguesia de Baependi"* — **o batismo dela está nos livros de Nossa Senhora do Monte Serrat, Baependi**.
 

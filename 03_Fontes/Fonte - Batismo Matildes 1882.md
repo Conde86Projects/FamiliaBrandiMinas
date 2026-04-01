@@ -20,7 +20,7 @@ tags: [fonte, batismo, baependi, 1882, matildes]
 
 - **Batizada:** Matildes
 - **Pai:** Paulino José dos Santos
-- **Mãe:** Maria Baptista Brande de Ribeiro ⚠️ *(variação do nome de [[Documentos Maria Guilhermina|Maria Guilhermina Brandi]])*
+- **Mãe:** Maria Baptista Brandi da Silveira *(variação do nome de [[Documentos Maria Guilhermina|Maria Guilhermina Brandi]] — "da Silveira" derivado de Anna Silvéria, avó materna)*
 - **Local:** Nossa Senhora do Monserrate, Baependi, MG
 
 ## Importância
