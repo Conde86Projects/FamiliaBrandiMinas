@@ -48,8 +48,7 @@ Ela é filha provável do imigrante italiano [[Pai_Nicola Brandi|Nicola Brandi]]
 | [[Filho_José Nicolau\|José Nicolau]] | Nascimento | ~1888 | [[Fonte - Óbito José Nicolau 1958]] |
 | [[Filho_Paulo\|Paulo]] | Nascimento | ~1888 | [[Fonte - Registro Paulo 1912]] |
 | [[Filho_Moyzes José dos Santos\|Moyzes José]] | Nascimento | 1889 | [[Fonte - Nascimento Moyzes 1889]] |
-| [[Filho_Antonio Santos\|Antonio Brandi dos Santos]] | Batismo | 08/12/1891 | [[Fonte - Batismo Antonio Santos 1891]] / [[Fonte - Casamento Antonio Brandi dos Santos 1933]] ✅ |
-| [[Filho_Antonio Paulino dos Santos\|Antonio Paulino]] | Registro | 08/07/1912 | [[Fonte - Registro Antonio Paulino 1912]] |
+| [[Filho_Antonio Santos\|Antonio Paulino Brandi dos Santos]] | Batismo | 08/12/1891 | [[Fonte - Batismo Antonio Santos 1891]] / [[Fonte - Casamento Antonio Brandi dos Santos 1933]] ✅ / ✅ Falec. 06/10/1959 |
 | [[Filho_Lindolpho Brandi dos Santos\|Lindolpho Brandi]] | Batismo | 20/10/1896 | [[Fonte - Batismo Lindolpho 1896]] |
 | [[Filha_Maria Brandi de Freitas\|Maria Brandi de Freitas]] | Batismo | 09/04/1898 | [[Fonte - Batismo Maria Brandi 1898]] |
 | [[Neta_Maria Paulina Brandi (mãe)\|Maria Paulina Brandi *(neta)*]] | — | ~1895–1902 | via batismo neto 1918 + casamento neta 1936 |
@@ -103,7 +102,7 @@ Esta é uma **pista crítica** — o nome aparece de formas muito diferentes nos
 | 1879 | Já em Baependi — filho Manoel morre | ✅ |
 | 1879–1898 | Batismos dos filhos em Baependi | ✅ |
 | **1909 (Nov)** | Marido Paulino Vivo — batismo neta | ✅ |
-| **1912 (Jul)** | Marido Paulino **já falecido** | ✅ Ocorre óbito em janela 1909-1912 |
+| **1912 (Jul/08)** | **Casamento** de Antonio Paulino (filha de Maria Guilhermina) com **Salvatina Maria de Jesus** — par Antonio é viúvo de Paulino, "já falecido" | ✅ [[Fonte - Casamento Antonio Paulino 1912]] |
 | **1913** | **Viva** — madrinha de José de Jesus Brantes (filho de Antonio Braulino Brantes + Sabatina Maria de Jesus) | ✅ Como "Maria Guilhermina Brantes" |
 | **1916** | **Viva** — casamento de Lindolfo não a menciona como falecida | ✅ Confirmado |
 | **16/03/1918** | **Viva** — madrinha de Moyses Brandi Barbosa da Silva (filho de Jovino Barbosa da Silva + Maria Paulina Brandi). Padrinho: Nicolau Brandi | ✅ Como "Maria Guilhermina Brandi" |

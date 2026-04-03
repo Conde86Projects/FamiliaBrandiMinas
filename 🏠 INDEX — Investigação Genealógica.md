@@ -44,7 +44,7 @@ tags: [dashboard, indice, investigacao]
 | 6   | [[Filho_José Nicolau\|José Nicolau]]                       | Nasc.   | ~1888 |
 | 7   | [[Filho_Paulo\|Paulo]]                                     | Nasc.   | ~1888 |
 | 8   | [[Filho_Moyzes José dos Santos\|Moyzes José]]              | Nasc.   | 1889  |
-| 9   | [[Filho_Antonio Santos\|Antonio Santos]]                   | Batismo | 1891  |
+| 9   | [[Filho_Antonio Santos\|Antonio Paulino Brandi dos Santos]]  | Batismo/Falec. | 1891 / †1959 |
 | 10  | [[Filho_Lindolpho Brandi dos Santos\|Lindolpho Brandi]]    | Batismo | 1896  |
 | 11  | [[Filha_Maria Brandi de Freitas\|Maria Brandi de Freitas]] | Batismo | 1898  |
 
@@ -52,7 +52,6 @@ tags: [dashboard, indice, investigacao]
 
 | Nome | Evento | Data |
 |------|--------|------|
-| [[Filho_Antonio Paulino dos Santos\|Antonio Paulino dos Santos]] | Registro | 1912 |
 | [[Filha_Maria Paulina Brandi\|Maria Paulina Brandi]] | Casamento | 1936 |
 
 ---

@@ -32,9 +32,13 @@ Este registro é uma das poucas fontes que a mencionam diretamente após os bati
 ### Nova variante do sobrenome
 Ela aparece como **"Brantes"** — mais uma variação de Brandi/Brande/Brand/Brant/Brandam, típica do registro fonético brasileiro do século XIX–XX.
 
-### Quem é Antonio Braulino Brantes?
-O pai do afilhado usa o sobrenome "Brantes". Pode ser:
-- Filho de Maria Guilhermina (talvez o mesmo "Antonio Santos" ou "Antonio Paulino dos Santos" dos registros anteriores, com sobrenome grafado diferente)
-- Ou um parente por casamento
+### ✅ Quem é Antonio Braulino Brantes? — CONFIRMADO
 
-⚠️ **A investigar:** Relação de Antonio Braulino Brantes com Maria Guilhermina.
+O pai do afilhado é **Antonio Paulino Brandi dos Santos** (filho de Maria Guilhermina), com o nome distorcido pelo escrivão:
+- **"Braulino"** = distorção de "Paulino" (segundo nome de Antonio)
+- **"Brantes"** = distorção de "Brandi" (sobrenome materno)
+- **"Sabatina"** = distorção de "Salvatina" (sua primeira esposa, com quem casou em 08/07/1912)
+
+Portanto, Maria Guilhermina estava na Igreja em 1913 batizando o próprio **neto** José de Jesus — filho de seu filho Antonio com sua nora Salvatina.
+
+🔗 Ver: [[Filho_Antonio Santos]] | [[Fonte - Casamento Antonio Paulino 1912]]

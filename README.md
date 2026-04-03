@@ -32,14 +32,13 @@ Este repositório contém os arquivos de pesquisa e documentação genealógica 
 | 6 | José Nicolau | Nascimento | ~1888 |
 | 7 | Paulo | Nascimento | ~1888 |
 | 8 | Moyzes José (dos Santos) | Nascimento | 1889 |
-| 9 | Antonio Santos | Batismo | 1891 |
+| 9 | Antonio Paulino Brandi dos Santos | Batismo/Falec. | 1891 / †1959 |
 | 10 | Lindolpho Brandi (dos Santos) | Batismo | 1896 |
 | 11 | Maria Brandi de Freitas | Batismo | 1898 |
 
 *(Nota: Justo José dos Santos, sobrinho de Paulino, casou-se com Matildes).*
 
 ### Geração 4 — Netos Prováveis
-- **Antonio Paulino dos Santos** (Registro em 1912)
 - **Maria Paulina Brandi** (Casamento em 1936)
 
 ---
