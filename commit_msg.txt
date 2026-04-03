@@ -1,0 +1,16 @@
+feat: filhos de Antonio Paulino com Salvatina (7 filhos) + obito 1959
+
+Filhos com Salvatina Maria de Jesus (todos batizados em Baependi/Itanhandu):
+- Jose Brandi (nasc. 17/05/1913, bat. 15/06/1913) - HK9Y-N4W2
+- Miguel Brandi (nasc. 29/09/1914, bat. 03/01/1915) - QG6C-8WVJ
+- Maria de Jesus Brande dos Santos (nasc. 08/04/1916, bat. 30/04/1916) - HK9R-LZ3Z
+- Geraldo de Jesus Brandi dos Santos (nasc. 23/05/1918, bat. 26/07/1918) - HK9Y-YS2M / HK9Y-ZX3Z
+- Sebastiao de Jesus Brande dos Santos (nasc. 20/07/1921, bat. 06/08/1921) - QG6C-XYMH
+- Marianna de Jesus dos Santos (nasc. 23/10/1924, bat. 25/10/1924) - sem link
+- Ignez de Jesus Brandi dos Santos (nasc. 20/08/1926, bat. 19/09/1926) - QG6C-LKFM
+
+Adiciona:
+- Fonte obito Antonio 1959 (XSF8-FR5X - Capela da Vargem, Baependi)
+- Corrige link 2o casamento 1930: X9YL-V6YF (Rosalina Carolina de Jesus)
+- Link casamento 1912 com Salvatina: X9YF-ZSPD
+- 8 novos perfis em 02_Descendentes e 1 fonte em 03_Fontes

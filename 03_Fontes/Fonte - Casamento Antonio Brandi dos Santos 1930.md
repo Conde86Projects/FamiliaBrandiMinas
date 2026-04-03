@@ -4,17 +4,18 @@ evento: Casamento Religioso
 data: 1930-11-15
 local: "Matriz de Baependi, MG"
 arquivo: FamilySearch
-link: "https://familysearch.org/ark:/61903/1:1:XSFD-WWNJ"
+link: "https://familysearch.org/ark:/61903/1:1:X9YL-V6YF"
 tags: [fonte, casamento, baependi, 1930, antonio_brandi]
 ---
 
-# Fonte — Casamento de Antonio Brandi dos Santos (1930)
+# Fonte — Casamento de Antonio Brandi dos Santos com Rosalina Carolina de Jesus (1930)
 
-**Evento:** Casamento Religioso
+**Evento:** Casamento Religioso (2º Casamento de Antonio)
 **Data:** 15 de novembro de 1930
 **Local:** Matriz de Baependi, MG
 
-🔗 [Ver no FamilySearch](https://familysearch.org/ark:/61903/1:1:XSFD-WWNJ)
+🔗 [Ver no FamilySearch](https://familysearch.org/ark:/61903/1:1:X9YL-V6YF)
+
 
 ## Transcrição do Registro
 

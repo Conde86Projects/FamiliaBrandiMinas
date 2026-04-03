@@ -29,7 +29,16 @@ data_terceiro_casamento: 1933-08-22
 fonte_casamento_1933: "[[Fonte - Casamento Antonio Brandi dos Santos 1933]]"
 local_casamentos: "Baependi, MG"
 estado_civil_no_casamento_1933: viúvo
-tags: [descendente, baependi, batismo, 1891, casamento, 1912, 1930, 1933, confirmado]
+fonte_obito: "[[Fonte - Óbito Antonio Paulino 1959]]"
+filhos_com_salvatina:
+  - José Brandi (17/05/1913 — bat. 15/06/1913)
+  - Miguel Brandi (29/09/1914 — bat. 03/01/1915)
+  - Maria de Jesus Brande dos Santos (08/04/1916 — bat. 30/04/1916)
+  - Geraldo de Jesus Brandi dos Santos (23/05/1918 — bat. 26/07/1918)
+  - Sebastião de Jesus Brande dos Santos (20/07/1921 — bat. 06/08/1921)
+  - Marianna de Jesus dos Santos (23/10/1924 — bat. 25/10/1924)
+  - Ignez de Jesus Brandi dos Santos (20/08/1926 — bat. 19/09/1926)
+tags: [descendente, baependi, batismo, 1891, casamento, 1912, 1930, 1933, obito, 1959, confirmado]
 ---
 
 # Antonio Paulino Brandi dos Santos
@@ -46,9 +55,10 @@ tags: [descendente, baependi, batismo, 1891, casamento, 1912, 1930, 1933, confir
 
 ## Fontes
 - [[Fonte - Batismo Antonio Santos 1891]] 🔗 [FamilySearch](https://familysearch.org/ark:/61903/1:1:6NVX-8SX3) *(Nascimento confirmado: 06/11/1891 — 6 fontes)*
-- [[Fonte - Casamento Antonio Paulino 1912]] — 1º Casamento com Salvatina Maria de Jesus (08/07/1912)
-- [[Fonte - Casamento Antonio Brandi dos Santos 1930]] 🔗 [FamilySearch](https://familysearch.org/ark:/61903/1:1:XSFD-WWNJ)
-- [[Fonte - Casamento Antonio Brandi dos Santos 1933]] 🔗 [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XSFD-28XB?lang=pt)
+- [[Fonte - Casamento Antonio Paulino 1912]] 🔗 [FamilySearch](https://familysearch.org/ark:/61903/1:1:X9YF-ZSPD) — 1º Casamento com Salvatina Maria de Jesus (08/07/1912)
+- [[Fonte - Casamento Antonio Brandi dos Santos 1930]] 🔗 [FamilySearch](https://familysearch.org/ark:/61903/1:1:X9YL-V6YF) — 2º Casamento Rosalina Carolina de Jesus (15/11/1930)
+- [[Fonte - Casamento Antonio Brandi dos Santos 1933]] 🔗 [FamilySearch](https://www.familysearch.org/ark:/61903/1:1:XSFD-28XB?lang=pt) — 3º Casamento Anna Maria de Jesus (22/08/1933)
+- [[Fonte - Óbito Antonio Paulino 1959]] 🔗 [FamilySearch](https://familysearch.org/ark:/61903/1:1:XSF8-FR5X) — Falecimento 06/10/1959
 
 ---
 
@@ -58,10 +68,21 @@ A documentação mostra que Antonio casou-se **pelo menos três vezes**, ficando
 
 ### 1º Casamento — Salvatina Maria de Jesus (08/07/1912)
 - **Data:** 8 de julho de 1912 — Baependi, MG ✅ **CONFIRMADO**
-- **Fonte:** [[Fonte - Casamento Antonio Paulino 1912]]
+- **Fonte:** [[Fonte - Casamento Antonio Paulino 1912]] 🔗 [FamilySearch](https://familysearch.org/ark:/61903/1:1:X9YF-ZSPD)
 - **Status de Salvatina:** Faleceu antes de novembro de 1930.
 - **Evidência da morte de Salvatina:** Antonio entra no casamento de novembro de 1930 declarando ser "viúvo de Salvatina Maria de Jesus".
-- **Filhos:** Pelo menos **José de Jesus Brandi** (batizado em 1913 como "José de Jesus Brantes", filho de "Antonio Braulino Brantes e Sabatina Maria de Jesus"). O escrivão da época ou indexador distorceu "Paulino" para "Braulino" e "Brandi" para "Brantes". A madrinha foi a própria avó paterna, Maria Guilhermina.
+
+#### Filhos com Salvatina (todos batizados na Paróquia Nª Sª Monserrate/Itanhandu, Baependi — MG)
+
+| # | Nome | Nascimento | Batismo | FamilySearch |
+|---|------|-----------|---------|-------------|
+| 1 | [[Neto_José Brandi|José Brandi]] | 17/05/1913 | 15/06/1913 | [HK9Y-N4W2](https://familysearch.org/ark:/61903/1:1:HK9Y-N4W2) |
+| 2 | [[Neto_Miguel Brandi|Miguel Brandi]] | 29/09/1914 | 03/01/1915 | [QG6C-8WVJ](https://familysearch.org/ark:/61903/1:1:QG6C-8WVJ) |
+| 3 | [[Neta_Maria de Jesus Brande dos Santos|Maria de Jesus]] | 08/04/1916 | 30/04/1916 | [HK9R-LZ3Z](https://familysearch.org/ark:/61903/1:1:HK9R-LZ3Z) |
+| 4 | [[Neto_Geraldo Brandi dos Santos|Geraldo de Jesus]] | 23/05/1918 | 26/07/1918 | [HK9Y-YS2M](https://familysearch.org/ark:/61903/1:1:HK9Y-YS2M) / [HK9Y-ZX3Z](https://familysearch.org/ark:/61903/1:1:HK9Y-ZX3Z) |
+| 5 | [[Neto_Sebastião Brande dos Santos|Sebastião de Jesus]] | 20/07/1921 | 06/08/1921 | [QG6C-XYMH](https://familysearch.org/ark:/61903/1:1:QG6C-XYMH) |
+| 6 | [[Neta_Marianna de Jesus dos Santos|Marianna de Jesus]] | 23/10/1924 | 25/10/1924 | *(sem link individual)* |
+| 7 | [[Neta_Ignez Brandi dos Santos|Ignez de Jesus]] | 20/08/1926 | 19/09/1926 | [QG6C-LKFM](https://familysearch.org/ark:/61903/1:1:QG6C-LKFM) |
 
 ### 2º Casamento — Rosalina Carolina de Jesus (15/11/1930)
 - **Local:** Matriz de Baependi, MG
